@@ -1,0 +1,36 @@
+/*
+Theme Name: Get Group Theme
+Theme URI: https://www.getgroup.com/
+Author: Get Group
+Author URI: https://www.getgroup.com/
+Description: Get Group Theme for company website
+Version: 1.0
+Text Domain: getgroup
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+* {
+    font-family: 'Roboto Slab', serif;
+}
+
+.card {
+    margin: 20px;
+}
+
+#menu-primary a span {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+}
+
+.event {
+    margin-top: 40px;
+}
+
+.event-name {
+    color: slategrey;
+    font-weight: bold;
+}
